@@ -1,4 +1,4 @@
-# The PhotoApp
+# The PhotoApp Stage 1
 
 
 In this project, I am developing a cloud-native application designed to handle image-related operations, enabling users to seamlessly upload, download, and manipulate their own images. My primary focus here is to establish a robust foundation for the application using AWS services and Python. 

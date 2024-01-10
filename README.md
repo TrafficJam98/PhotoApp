@@ -11,3 +11,5 @@ Some of the key objectives in this project include:
 
    
 It's important to note that my primary objective is not to create a novel image application; rather, I aim to provide an architectural exemplar for working with assets, which could encompass a wide range of data types, from legal documents to extensive financial datasets. Our project serves as a practical demonstration of how to architect and implement asset management within a cloud-native environment.
+
+Note: This code is for display only. In order for it to run correctly, one has to set up his/her own AWS enviroment
